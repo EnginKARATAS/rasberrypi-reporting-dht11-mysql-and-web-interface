@@ -49,6 +49,16 @@ code on github!
 7.external network connection(VPN)
 <br>
 <br>
+8.Php-ChartJS
+![adafruit](/project_images/filter.png)
+<h3>Datatable</h3>
+![adafruit](/project_images/datatable.png)
+<h3>Export as pdf</h3>
+![adafruit](/project_images/pdf.png)
+<h3>Chart With ChartJs</h3>
+![adafruit](/project_images/chart.png)
+<br>
+<br>
 <h2>Summary</h2>
 With the Raspberry Pi and DHT11 Heat-Humidity Sensor, the humidity and temperature information of the environment is logged on the database. In this project, we talk about how to write the humidity and temperature measurement of the environment to the MySQL database using the DHT11 temperature and humidity sensor, Raspberry Pi and Python software language, and how to monitor the data with PHP language.
 Hardware materials used; Raspberry Pi, 1 Piece DHT11 Temperature-Humidity Sensor, Power cable, 3 Pieces Female-Male Cable, 1 Piece resistor (Preferably 4.7k), 1 Piece Board, 
