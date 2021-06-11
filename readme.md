@@ -52,10 +52,16 @@ code on github!
 8.Php-ChartJS
 ![adafruit](/project_images/filter.png)
 <h3>Datatable</h3>
+<br>
+<br>
 ![adafruit](/project_images/datatable.png)
 <h3>Export as pdf</h3>
+<br>
+<br>
 ![adafruit](/project_images/pdf.png)
 <h3>Chart With ChartJs</h3>
+<br>
+<br>
 ![adafruit](/project_images/chart.png)
 <br>
 <br>
