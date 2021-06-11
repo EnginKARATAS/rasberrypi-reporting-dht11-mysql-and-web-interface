@@ -49,17 +49,24 @@ It is a web-based programming language created to develop dynamic websites and w
 2.2 CSS
 In its simplest form, HTML tags can be visualized in terms of color, size, format, font, etc. enables development. In this project, the ready library bootstrap css and a very small amount of personalized css are used.
 
+<br>
 
 2.3 BOOTSTRAP
 It is a web design tool that includes all the tools necessary to create a website, and allows us to design responsively with a flexible structure using these tools and to adjust the size of smart devices such as phones and tablets. It is used to design the interface we created in our project.
+<br>
+
 2.4 PYTHON
 Python is a powerful and dynamic programming language used in many fields. In our project, a library (Adafruit) is used to get the temperature and humidity information from our DHT11 sensor by using the Python programming language.
+<br>
 2.5 RASPBERRY PI
 Raspberry Pi is a single board computer. The CPU is on the board. It is similar to a traditional motherboard with exposed ports and electronic circuitry consisting of many small switches. It also has all the components needed to connect the inputs and outputs of the devices you want to add. It does not contain an operating system or program. In our project, we complete our circuit by connecting our Raspberry Pi 3b model device to receive data from the DHT11 sensor.
+<br>
 2.6 DATATABLES
 Datatables is a structure that eliminates many problems of the developer or programmer in terms of data representation. Thanks to this structure, operations such as paging, searching, adding, deleting, exporting (pdf, xls, etc.) The jquery library is used. This structure was preferred while showing the temperature and humidity values ​​in our project.
+<br>
 2.7 CHARTJS
 ChartJS; It is a javascript library that allows you to prepare visual graphics in Line, Bar, Radar, Pie, Polar, Bubble, Scatter styles. Its ability to work on mobile devices such as phones and tablets and its support by all modern browsers are also the plus sides of the library. Moreover, all graphic indicators are animated and customizable.
+<br>
 3. REFERENCES
 • https://www.youtube.com/watch?v=q29tQKh_5p8
 • https://roboticadiy.com/raspberry-pi-4-data-logger-dht11-dht22-sensor-data-logger/
