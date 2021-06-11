@@ -50,7 +50,8 @@ code on github!
 <br>
 <br>
 8.Php-ChartJS
- 
+ ![chart](https://user-images.githubusercontent.com/43602725/121702892-ef376b80-cada-11eb-8ca5-a8591a0148ae.png)<br>
+
 ![filter](https://user-images.githubusercontent.com/43602725/121702788-dc249b80-cada-11eb-98d4-721030e2b137.png)
  
 <h3>Datatable</h3>
@@ -64,7 +65,6 @@ code on github!
 ![pdf](https://user-images.githubusercontent.com/43602725/121702875-ecd51180-cada-11eb-8768-e72c579efbd0.png)<h3>Chart With ChartJs</h3>
 <br>
 <br>
-![chart](https://user-images.githubusercontent.com/43602725/121702892-ef376b80-cada-11eb-8ca5-a8591a0148ae.png)<br>
 <br>
 <h2>Summary</h2>
 With the Raspberry Pi and DHT11 Heat-Humidity Sensor, the humidity and temperature information of the environment is logged on the database. In this project, we talk about how to write the humidity and temperature measurement of the environment to the MySQL database using the DHT11 temperature and humidity sensor, Raspberry Pi and Python software language, and how to monitor the data with PHP language.
