@@ -8,7 +8,7 @@ PART2:
 [2-Proje:DHT11 sensörüyle nem ve sıcaklık bilgisini veritabanında loglama, web arayüzde raporlama
 ](https://www.youtube.com/watch?v=r-ilHhNZdM8)
 
-<h3>How to use?</h3>
+<h1>How to use?</h1>
 Equipment Used
 Rasberry Pi 3b+
 1 Piece DHT11 Heat-Humidity Sensor
@@ -23,13 +23,11 @@ Small cable to make several connections
 https://www.youtube.com/watch?v=q29tQKh_5p8
 <br>
 <br>
-
 2. We installed python (since we are on linux, python is compiled with the tonny editor) and then we installed a library (Adafruit) to get the information from DHT11.
 https://roboticadiy.com/raspberry-pi-4-data-logger-dht11-dht22-sensor-data-logger/
 note: take into account from the title Installing DHT11/ DHT22 Library for Raspberry PI 4: to Code Raspberry Pi 4 Data Logger: in the link.
 <br>
 <br>
-
 3. We designed our circuit
 In the link in step2, we did exactly the diagram in the title Circuit diagram for DHT11/DHT22 to Raspberry Pi 4: It doesn't matter if rasbery is 3 or 4 when building a circuit.
 You can find which pin corresponds to where by typing raspberry pi 3b+ pinout on google
