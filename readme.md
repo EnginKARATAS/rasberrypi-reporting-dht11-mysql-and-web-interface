@@ -1,10 +1,12 @@
 PROJECT VİDEOS(Turkish):
 <br>
 PART1:
-[part1](https://www.youtube.com/watch?v=dYvv9-LwueA)
+[1-Proje:DHT11 sensörüyle nem ve sıcaklık bilgisini veritabanında loglama, arayüzdde ile raporlama
+](https://www.youtube.com/watch?v=dYvv9-LwueA)
 <br>
 PART2:
-[part2](https://www.youtube.com/watch?v=r-ilHhNZdM8)
+[2-Proje:DHT11 sensörüyle nem ve sıcaklık bilgisini veritabanında loglama, web arayüzde raporlama
+](https://www.youtube.com/watch?v=r-ilHhNZdM8)
 
 <h3>How to use?</h3>
 Equipment Used
