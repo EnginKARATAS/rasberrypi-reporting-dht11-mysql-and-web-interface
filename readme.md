@@ -56,9 +56,13 @@ This steps, doesnt in requirements
 <br>
 <br>
 8.Php-ChartJS-datatable-filter.
+1-
 ![chart](https://user-images.githubusercontent.com/43602725/121702892-ef376b80-cada-11eb-8ca5-a8591a0148ae.png)
- ![filter](https://user-images.githubusercontent.com/43602725/121702788-dc249b80-cada-11eb-98d4-721030e2b137.png)
- ![datatable](https://user-images.githubusercontent.com/43602725/121702811-e050b900-cada-11eb-825f-873c134c011d.png)
+2-
+![filter](https://user-images.githubusercontent.com/43602725/121702788-dc249b80-cada-11eb-98d4-721030e2b137.png)
+3-
+![datatable](https://user-images.githubusercontent.com/43602725/121702811-e050b900-cada-11eb-825f-873c134c011d.png)
+4-
 ![pdf](https://user-images.githubusercontent.com/43602725/121702875-ecd51180-cada-11eb-8768-e72c579efbd0.png)
  
 <h2>Summary</h2>
