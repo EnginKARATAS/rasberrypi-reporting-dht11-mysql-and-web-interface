@@ -49,11 +49,9 @@ code on github!
 
 <br>
 <br>
-
+This steps, doesnt in requirements
+<br>
 6.internal network connection
-<br>
-<br>
-
 7.external network connection(VPN)
 <br>
 <br>
