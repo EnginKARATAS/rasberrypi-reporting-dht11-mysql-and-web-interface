@@ -1,5 +1,12 @@
 PROJECT VİDEOS(Turkish):
-<br>
+
+PROJECT İMAGE:
+
+![WhatsApp Image 2021-06-25 at 01 29 16](https://user-images.githubusercontent.com/43602725/123340525-005d8f00-d555-11eb-846b-2114dfc1bd03.jpeg)
+
+![WhatsApp Image 2021-06-25 at 01 30 08](https://user-images.githubusercontent.com/43602725/123340537-02275280-d555-11eb-8217-ecb14d5b9e69.jpeg)
+
+
 PART1:
 [1-Proje:DHT11 sensörüyle nem ve sıcaklık bilgisini veritabanında loglama, arayüzdde ile raporlama
 ](https://www.youtube.com/watch?v=dYvv9-LwueA)
